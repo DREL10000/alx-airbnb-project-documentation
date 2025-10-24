@@ -24,13 +24,13 @@ A document details all the features and functionalities of a backend that suppor
 
 ### Search and Filtering
 
--Implement search functionality to allow users to find properties by:
+- Implement search functionality to allow users to find properties by:
 
-- Location
-- Price range
-- Number of guests
-- Amenities (e.g., Wi-Fi, pool, pet-friendly)
-- Include pagination for large datasets.
+  - Location
+  - Price range
+  - Number of guests
+  - Amenities (e.g., Wi-Fi, pool, pet-friendly)
+  - Include pagination for large datasets.
 
 ### Booking Management
 
@@ -42,30 +42,30 @@ A document details all the features and functionalities of a backend that suppor
 - Booking Status:
 - Track booking statuses such as pending, confirmed, canceled, or completed.
 
-5. Payment Integration
+### Payment Integration
 
-   - Implement secure payment gateways (e.g., Stripe, PayPal) to handle:
-   - Upfront payments by guests.
-   - Automatic payouts to hosts after a booking is completed.
-   - Include support for multiple currencies.
+- Implement secure payment gateways (e.g., Stripe, PayPal) to handle:
+- Upfront payments by guests.
+- Automatic payouts to hosts after a booking is completed.
+- Include support for multiple currencies.
 
-6. Reviews and Ratings
+### Reviews and Ratings
 
-   - Guests can leave reviews and ratings for properties.
-   - Hosts can respond to reviews.
-   - Ensure reviews are linked to specific bookings to prevent abuse.
+- Guests can leave reviews and ratings for properties.
+- Hosts can respond to reviews.
+- Ensure reviews are linked to specific bookings to prevent abuse.
 
-7. Notifications System
+### Notifications System
 
-   - Implement email and in-app notifications for:
-   - Booking confirmations
-   - Cancellations
-   - Payment updates
+- Implement email and in-app notifications for:
+- Booking confirmations
+- Cancellations
+- Payment updates
 
-8. Admin Dashboard
+### Admin Dashboard
 
-   - Create an admin interface for monitoring and managing:
-   - Users
-   - Listings
-   - Bookings
-   - Payments
+- Create an admin interface for monitoring and managing:
+- Users
+- Listings
+- Bookings
+- Payments
